@@ -1,0 +1,16 @@
+---
+import { basics } from '@cv';
+import Section from '@components/Section.astro';
+
+const {summary,} = basics;
+---
+
+<Section tittle="Sobre mí">
+    <p>{summary}</p>
+</Section>
+
+<style>
+    p {
+        white-space: pre-wrap;
+    }
+</style>

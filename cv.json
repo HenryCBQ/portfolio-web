@@ -1,0 +1,185 @@
+{
+    "basics": {
+      "name": "Henry Alexis Ceballos Quintero",
+      "label": "QA Automation Engineer con más de dos años de experiencia y desarrollador Full Stack",
+      "image": "/me.webp",
+      "email": "henryalexis1999@gmail.com",
+      "phone": "(304) 380-6632",
+      "url": "https://henryalexisdev.com",
+      "summary": "Soy un QA Automation Engineer con más de dos años de experiencia en pruebas automatizadas y un desarrollador Full Stack. Mi experiencia abarca:\n-Desarrollo en lenguajes de programación PHP, JavaScript, Python y Java.\n-Desarrollo con frameworks y bibliotecas como Laravel, Reactjs, Django, FastApi, Astro Build, Nextjs.\n-Desarrollo y ejecución de pruebas en bases de datos MySQL, PostgreSQL, SQL server y MongoDB.\n-Diseño y ejecución de pruebas automatizadas utilizando herramientas como Selenium, Postman y SBOT.\n-Trabajo en el marco de metodologías ágiles de desarrollo, DevOps y Scrum.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Medellín",
+        "countryCode": "NA",
+        "region": "Colombia"
+      },
+      "profiles": 
+        [
+            {
+                "network": "Linkedin",
+                "username": "Henry Ceballos",
+                "url": "https://www.linkedin.com/in/henry-alexis-ceballos-quintero-4379b0189"
+            },
+            {
+                "network": "GitHub",
+                "username": "HenryCBQ",
+                "url": "https://github.com/HenryCBQ"
+            }
+        ]
+    },
+    "work": 
+    [
+        {
+            "name": "Sequal SA",
+            "position": "QA Automation Engineer",
+            "url": "https://company.com",
+            "startDate": "2021-10-25",
+            "endDate": null,
+            "summary": "Pruebas manuales y automatizadas en la plataforma Exito.com y sus integraciones, usando e interactuando con distintas tecnologías como Apache Nifi, Kafka, colas SQS, Rabbit, WebSphere y Pub/Sub, bases de datos Mongo y PostgreSQL. Ejecución de pruebas en API Rest. Diseño y gestión de casos de pruebas automatizadas en Azure DevOps. Desarrollo de soluciones en Java para mejorar SBOT, una herramienta para automatizar pruebas.",
+            "highlights": [
+                "Started the company"
+            ]
+        }  
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2021-10-25",
+      "endDate": null,
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": 
+    [
+        {
+            "institution": "Universidad Pascual Bravo",
+            "url": "https://institution.com/",
+            "area": "Tecnología en desarrollo de software",
+            "icon": "/logo-pascual-bravo.webp",
+            "studyType": "Bachelor",
+            "startDate": "2019-09-01",
+            "endDate": null,
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "Servicio Nacional de Aprendizaje (SENA)",
+            "url": "https://institution.com/",
+            "area": "Tecnología en mantenimiento electrónico",
+            "icon": "/logo-sena.webp",
+            "studyType": "Bachelor",
+            "startDate": "2017-01-01",
+            "endDate": "2019-11-30",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        }
+    ],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": 
+    [
+        {
+            "name": "HTML",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "Python",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "PHP",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "Java",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "Mysql",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "Postgresql",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "MongoDB",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "Reactjs",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "Laravel",
+            "level": "Master",
+            "keywords": []
+        }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": 
+    [
+        {
+            "name": "FreshCoffee",
+            "startDate": "2023-11-01",
+            "endDate": "2024-04-01",
+            "description": "Proyecto web FullStack con fines educativos, que usa Laravel en el backend y Reactjs en el frontend, con una base de datos MySQL. Es un Quiosco de comidas rápidas dónde el usuario elige sus productos y realiza su pedido.",
+            "highlights": [
+                "Reactjs","Laravel","MySQL","Tailwin CSS"
+            ],
+            "url": "https://fresh-coffee-front.vercel.app/"
+        }
+    ]   
+}
