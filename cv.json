@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Henry Alexis Ceballos Quintero",
-      "label": "QA Automation Engineer con más de dos años de experiencia y desarrollador Full Stack",
-      "image": "/me.webp",
+      "label": "QA Automation Engineer y desarrollador Full Stack con más de dos años de experiencia",
+      "image": "/me.jpg",
       "email": "henryalexis1999@gmail.com",
       "phone": "(304) 380-6632",
       "url": "https://henryalexisdev.com",
-      "summary": "Soy un QA Automation Engineer con más de dos años de experiencia en pruebas automatizadas y un desarrollador Full Stack. Mi experiencia abarca:\n-Desarrollo en lenguajes de programación PHP, JavaScript, Python y Java.\n-Desarrollo con frameworks y bibliotecas como Laravel, Reactjs, Django, FastApi, Astro Build, Nextjs.\n-Desarrollo y ejecución de pruebas en bases de datos MySQL, PostgreSQL, SQL server y MongoDB.\n-Diseño y ejecución de pruebas automatizadas utilizando herramientas como Selenium, Postman y SBOT.\n-Trabajo en el marco de metodologías ágiles de desarrollo, DevOps y Scrum.",
+      "summary": "QA Automation Engineer y desarrollador Full Stack, con más de dos años de experiencia. Mi experiencia abarca:\n-Desarrollo en lenguajes de programación PHP, JavaScript, Python y Java.\n-Desarrollo con frameworks y bibliotecas como Laravel, Reactjs, Django, FastApi, Astro Build y Nextjs.\n-Diseño y ejecución de pruebas automatizadas usando Selenium, Postman y SBOT.\n-Trabajo en el marco de metodologías ágiles de desarrollo, DevOps y Scrum.",
       "location": {
         "address": "",
         "postalCode": "",
