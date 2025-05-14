@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Henry Alexis Ceballos Quintero",
-      "label": "QA Automation Engineer y desarrollador Full Stack con más de dos años de experiencia",
+      "label": "Desarrollador Full Stack con experiencia en pruebas de software",
       "image": "/me.jpg",
       "email": "henryalexis1999@gmail.com",
       "phone": "(304) 380-6632",
       "url": "https://henryalexisdev.com",
-      "summary": "QA Automation Engineer y desarrollador Full Stack, con más de dos años de experiencia. Mi experiencia abarca:\n-Desarrollo en lenguajes de programación PHP, JavaScript, Python y Java.\n-Desarrollo con frameworks y bibliotecas como Laravel, Reactjs, Django, FastApi, Astro Build y Nextjs.\n-Diseño y ejecución de pruebas automatizadas usando Selenium, Postman y SBOT.\n-Trabajo en el marco de metodologías ágiles de desarrollo, DevOps y Scrum.",
+      "summary": "Con más de tres años de experiencia en:\n- Mantener y mejorar aplicaciones de Java construidas con Swing.\n- Construcción de pruebas unitarias con Power Mockito y JUnit.\n- Mantener y mejorar microservicios construidos en Spring Framework desplegados en Azure.\n- Construcción de Scripts en Python para generación de informes.\n- Control de versiones en Git y GitHub.\n- Ejecución de pruebas manuales y automatizadas en la plataforma Exito.com y sus integraciones, interactuando con tecnologías como Apache NiFi, Airflow, Kafka, colas SQS, RabbitMQ, WebSphere, Pub/Sub, MongoDB y PostgreSQL.\n- Ejecución de pruebas manuales y automatizadas en sistemas legacy y Apis.\n- Ejecución de pruebas de seguridad y control de acceso a la información.\n- En mi tiempo libre, estudio y desarrollo activamente proyectos para mejorar mis habilidades de desarrollo Full Stack, practicando activamente en frameworks como Nestjs, FastApi, Astro Build y React.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -32,11 +32,11 @@
     [
         {
             "name": "Sequal SA",
-            "position": "QA Automation Engineer",
+            "position": "Backend Developer, QA Engineer",
             "url": "https://company.com",
             "startDate": "2021-10-25",
             "endDate": null,
-            "summary": "Pruebas manuales y automatizadas en la plataforma Exito.com y sus integraciones, usando e interactuando con distintas tecnologías como Apache Nifi, Kafka, colas SQS, Rabbit, WebSphere y Pub/Sub, bases de datos Mongo y PostgreSQL. Ejecución de pruebas en API Rest. Diseño y gestión de casos de pruebas automatizadas en Azure DevOps. Desarrollo de soluciones en Java para mejorar SBOT, una herramienta para automatizar pruebas.",
+            "summary": "- Construcción de pruebas unitarias con Power Mockito y JUnit.\n- Mantener y mejorar microservicios construidos en Spring Framework desplegados en Azure.\n- Construcción de Scripts en Python para generación de informes.\n- Control de versiones en Git y GitHub.\n- Ejecución de pruebas manuales y automatizadas en la plataforma Exito.com y sus integraciones, interactuando con tecnologías como Apache NiFi, Airflow, Kafka, colas SQS, RabbitMQ, WebSphere, Pub/Sub, MongoDB y PostgreSQL.\n- Ejecución de pruebas manuales y automatizadas en sistemas legacy y Apis.\n- Ejecución de pruebas de seguridad y control de acceso a la información.",
             "highlights": [
                 "Started the company"
             ]
@@ -109,17 +109,7 @@
             "keywords": []
         },
         {
-            "name": "CSS",
-            "level": "Master",
-            "keywords": []
-        },
-        {
             "name": "Python",
-            "level": "Master",
-            "keywords": []
-        },
-        {
-            "name": "PHP",
             "level": "Master",
             "keywords": []
         },
@@ -129,12 +119,22 @@
             "keywords": []
         },
         {
-            "name": "Mysql",
+            "name": "TypeScript",
             "level": "Master",
             "keywords": []
         },
         {
             "name": "Postgresql",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "MySQL",
+            "level": "Master",
+            "keywords": []
+        },
+        {
+            "name": "SQLServer",
             "level": "Master",
             "keywords": []
         },
@@ -149,7 +149,7 @@
             "keywords": []
         },
         {
-            "name": "Laravel",
+            "name": "Astro Build",
             "level": "Master",
             "keywords": []
         }
@@ -172,14 +172,14 @@
     "projects": 
     [
         {
-            "name": "FreshCoffee",
-            "startDate": "2023-11-01",
-            "endDate": "2024-04-01",
-            "description": "Proyecto web FullStack con fines educativos, que usa Laravel en el backend y Reactjs en el frontend, con una base de datos MySQL. Es un Quiosco de comidas rápidas dónde el usuario elige sus productos y realiza su pedido.",
+            "name": "ghan-carlos-land",
+            "startDate": "2025-04-01",
+            "endDate": null,
+            "description": "Landing Page construido en Astro Build. Informa sobre la inteligencia de negocios en las organizaciones y lo importante que es la calidad de los datos que guardan las empresas para lograr análisis de calidad. También tiene como objetivo mostrar una oferta de servicios.",
             "highlights": [
-                "Reactjs","Laravel","MySQL","Tailwin CSS"
+                "Astro Build","CSS","TypeScript","HTML"
             ],
-            "url": "https://fresh-coffee-front.vercel.app/"
+            "url": "https://ghan-carlos-land.pages.dev/"
         }
     ]   
 }
